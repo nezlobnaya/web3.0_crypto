@@ -2,6 +2,6 @@
 
 ## messing with web3.0 and blockchain
 
-I am using Vite + React this time!
+I am using Vite + React + Tailwindcss  this time!Woo Hoo!
 
 ### to be continued!
